@@ -38,11 +38,3 @@ This repository contains 10 beginner-friendly minor projects developed in Python
    ```bash
    python project_01_country_info.py
    ```
-
----
-
-## Presentation & Viva Notes
-
-A PDF guide is included for viva preparation and project explanation:
-- **`MSc_Python_Minor_Projects_Short_Notes.pdf`** - Summary notes, speaking scripts, and viva Q&A for all 10 projects.
-- **`generate_pdf.py`** - Python script used to generate the presentation PDF using ReportLab.

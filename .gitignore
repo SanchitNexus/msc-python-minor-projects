@@ -13,3 +13,7 @@ ENV/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Local presentation notes
+*.pdf
+generate_pdf.py
