@@ -1,0 +1,82 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 1: Country Info",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_01_country_info.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 2: Joke Generator",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_02_joke_generator.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 3: Grade Calculator",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_03_grade_calculator.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 4: Expense Calculator",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_04_expense_calculator.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 5: Electricity Bill",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_05_electricity_bill.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 6: Password Checker",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_06_password_checker.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 7: Attendance Calculator",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_07_attendance_calculator.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 8: Quiz App",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_08_quiz_app.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 9: Temperature Converter",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_09_temperature_converter.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Project 10: To-Do Manager",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/project_10_todo_manager.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
